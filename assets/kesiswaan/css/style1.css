@@ -1,0 +1,191 @@
+.login-page {
+	background-color:#ecf0f1 !important;	
+}
+
+.box-kotak {
+	padding: 15px;
+    border: 2px solid #000;
+}
+
+h3.center {
+	text-align: center !important;
+}
+
+.image-left {
+	position: absolute;
+    left: 340px;
+    width: 25%;
+}
+
+.image-left img {
+	width: 60%;
+}
+
+.formkaldik {
+	border: 1px solid #3498db;
+	padding-bottom: 50px;
+	padding-left: 300px;
+}
+
+.formmapel {
+	border: 1px solid #3498db;
+	padding-bottom: 50px;
+}
+
+.formgrup{
+	margin-top: 70px;
+}
+
+.fit{
+	width: 10px !important;
+}
+.button-action{
+	width:80px;
+	float: left;
+	margin-top: 0 !important;
+	margin-right: 10px;
+}
+
+.pdg{
+	padding-top:0px !important;
+}
+
+.jarakform{
+	margin-top:10px;
+}
+
+.box-dashboard{
+	padding-bottom:200px !important;
+}
+
+.jarakbox{
+	padding-top: 50px;
+}
+.tambahmapel{
+	padding-left: 180px;
+	padding-bottom: 20px;
+	
+}
+
+button.btnedit{
+	background-color: #1abc9c;
+	border-color: #1abc9c;
+
+}
+
+button.btnhapus{
+	background-color: #e74c3c;
+	border-color: #e74c3c;
+}
+
+button.btnback{
+	background-color: #ffffff;
+	border-color: #ffffff;
+
+}
+
+.jarakbox table tr {
+	border: 1px solid #000000 !important;
+}
+
+.jarakbox table tr th {
+	border: 1px solid #000000 !important;
+	vertical-align: middle;
+}
+
+.jarakbox table tr td {
+	border: 1px solid #000000 !important;
+}
+
+tr.barishari {
+	background-color:  #53c68c;
+}
+
+tr.barishari th {
+	vertical-align: middle;
+	text-align: center;
+}
+
+tr.barishari th.tengah {
+	vertical-align: middle;
+}
+
+tr.bariskelas{
+	background-color: #53c68c;
+}
+
+option.ungu {
+	background-color: #9b59b6;
+}
+
+option.merah {
+	background-color: red;
+}
+
+option.kuning {
+	background-color: yellow;
+}
+
+option.hijau {
+	background-color: green;
+}
+
+button.btnjdwl {
+	float: right;
+    width: 120px;
+    margin-top: 20px;
+    background-color: #2c3e50;
+    color: #ffffff;
+    border-color: #2c3e50;
+    padding: 4px;
+}
+
+ul.titik {
+	list-style: none;
+}
+
+tr.btnpilih th{
+text-align: center;
+}
+
+.ungu {
+	background-color: #9b59b6;
+}
+
+.merah {
+	background-color: red;
+}
+
+.kuning {
+	background-color: yellow;
+}
+
+.hijau {
+	background-color: green;
+}
+
+.posisikanan {
+	float: right;
+}
+
+.formtengah {
+	width: 50%;
+	float: left;
+}
+
+table.nilaisiswa tr.barishari th {
+	vertical-align: middle !important;
+    text-align: left !important;
+}
+
+table.nilaisiswa tr.barishari th select {
+	padding: 5px;
+	float: left;
+	margin-right: 3px;
+}
+
+h3.box-title.right {
+	float: right !important;
+}
+
+
